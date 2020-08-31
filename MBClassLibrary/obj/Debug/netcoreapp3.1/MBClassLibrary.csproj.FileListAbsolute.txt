@@ -1,0 +1,9 @@
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\bin\Debug\netcoreapp3.1\MBClassLibrary.deps.json
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\bin\Debug\netcoreapp3.1\MBClassLibrary.dll
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.csprojAssemblyReference.cache
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.AssemblyInfoInputs.cache
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.AssemblyInfo.cs
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.csproj.CoreCompileInputs.cache
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\bin\Debug\netcoreapp3.1\MBClassLibrary.pdb
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.dll
+D:\MVC\As4-validations\MBPatients\MBClassLibrary\obj\Debug\netcoreapp3.1\MBClassLibrary.pdb
